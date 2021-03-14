@@ -5,5 +5,5 @@ import numpy as np
       lst.append(i*i)
     return lst
   
-numbers = [1,2,3,4,5]
+numbers = [7,2,3,4,5]
 squared_numbers(numbers)
